@@ -4,7 +4,11 @@
 > Use the editor below to write your first C program mimicking the one above, but with a more creative message.
 
 ```
-// Paste your program here
+#include <stdio.h>
+int main()
+{
+  printf("Hit or miss? I guess they never miss, huh?\n");
+} 
 ```
 
 ## Exercise 0.2
